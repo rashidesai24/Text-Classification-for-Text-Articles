@@ -1,7 +1,7 @@
 # ----------------------------- Multiclass Support Vector Machine
 
 # Changing the working directory to the location where data files recide
-setwd("C:/Personal/Fall 2018/Statistical Models and Methods for Business Analysis/SMMBA_Assignments/Homework 2/Dataset")
+setwd("C:/path")
 
 #Loading training data
 dataFile <- file("articles.train", "r")
